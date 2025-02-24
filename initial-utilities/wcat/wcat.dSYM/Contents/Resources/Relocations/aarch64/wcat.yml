@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/sarthakbarhanpure/Desktop/workspace/Cpp/OSTEP/ostep-projects/initial-utilities/wcat/wcat'
+relocations:     []
+...
